@@ -11,3 +11,5 @@ OpenAI사의 GPT 모델을 활용한 챗봇 개발하기
  7. 가상환경 생성(venv)
  8. vscode에서 python select intepreter 설정(Ctrl + shift + p) -> venv
 
+ #C
+
